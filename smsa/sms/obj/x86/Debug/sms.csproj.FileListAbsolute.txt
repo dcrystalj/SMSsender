@@ -1,0 +1,25 @@
+C:\Users\Crystal\AppData\Local\Temporary Projects\sms\bin\Debug\sms.exe
+C:\Users\Crystal\AppData\Local\Temporary Projects\sms\bin\Debug\sms.pdb
+C:\Users\Crystal\AppData\Local\Temporary Projects\sms\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Crystal\AppData\Local\Temporary Projects\sms\obj\x86\Debug\sms.Form1.resources
+C:\Users\Crystal\AppData\Local\Temporary Projects\sms\obj\x86\Debug\sms.Properties.Resources.resources
+C:\Users\Crystal\AppData\Local\Temporary Projects\sms\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Crystal\AppData\Local\Temporary Projects\sms\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Crystal\AppData\Local\Temporary Projects\sms\obj\x86\Debug\sms.exe
+C:\Users\Crystal\AppData\Local\Temporary Projects\sms\obj\x86\Debug\sms.pdb
+C:\Users\Crystal\documents\visual studio 2010\Projects\sms\sms\obj\x86\Debug\sms.exe
+C:\Users\Crystal\documents\visual studio 2010\Projects\sms\sms\obj\x86\Debug\sms.pdb
+C:\Users\Crystal\documents\visual studio 2010\Projects\sms\sms\bin\Debug\sms.exe
+C:\Users\Crystal\documents\visual studio 2010\Projects\sms\sms\bin\Debug\sms.pdb
+C:\Users\Crystal\documents\visual studio 2010\Projects\sms\sms\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Crystal\documents\visual studio 2010\Projects\sms\sms\obj\x86\Debug\sms.Form1.resources
+C:\Users\Crystal\documents\visual studio 2010\Projects\sms\sms\obj\x86\Debug\sms.Properties.Resources.resources
+C:\Users\Crystal\documents\visual studio 2010\Projects\sms\sms\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Crystal\documents\visual studio 2010\Projects\sms\sms\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Crystal\Desktop\format\workspaces\visual\smsa\sms\obj\x86\Debug\sms.exe
+C:\Users\Crystal\Desktop\format\workspaces\visual\smsa\sms\obj\x86\Debug\sms.pdb
+C:\Users\Crystal\Desktop\format\workspaces\visual\smsa\sms\bin\Debug\sms.exe
+C:\Users\Crystal\Desktop\format\workspaces\visual\smsa\sms\bin\Debug\sms.pdb
+C:\Users\Crystal\Desktop\format\workspaces\visual\smsa\sms\obj\x86\Debug\sms.Form1.resources
+C:\Users\Crystal\Desktop\format\workspaces\visual\smsa\sms\obj\x86\Debug\sms.Properties.Resources.resources
+C:\Users\Crystal\Desktop\format\workspaces\visual\smsa\sms\obj\x86\Debug\sms.csproj.GenerateResource.Cache
